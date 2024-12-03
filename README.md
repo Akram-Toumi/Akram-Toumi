@@ -1,10 +1,10 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=ADD8E6&lines=Hi+There!+👋;+I'm+Aziz+Ben+Amira!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=ADD8E6&lines=Hi+There!+👋;+I'm+Akram+Toumi!;" />
 </h1><h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=ADD8E6&lines=Hi+There!+👋;+I'm+Aziz+Ben+Amira!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=ADD8E6&lines=Hi+There!+👋;+I'm+Akram+Toumi!;" />
 </h1>
 
-<h3 align="center">A passionate AI and data enthusiast from France</h3>
+<h3 align="center">A passionate AI and data enthusiast from Tunisia</h3>
 
 <br/>
 
@@ -12,11 +12,11 @@
 
 🔭 I’m currently working on **an autonomous parking vehicle for the UTAC 2024 Challenge**
 
-🌱 I’m currently learning **Natural Language Processing (NLP), Reinforcement Learning, and Autonomous Systems**
+🌱 I’m currently learning **Deep Learning, DevOps, and Metaheuristic**
 
-💬 Ask me about **Python, Machine Learning, Deep Learning, or anything [here](https://github.com/yourusername/yourusername/issues)**
+💬 Ask me about **DevOps, Machine Learning, Deep Learning, or anything [here](https://github.com/yourusername/yourusername/issues)**
 
-⚡ Fun fact: **Did you know? Paris is often called the "City of Light" because it was one of the first cities to have street lighting!**
+⚡ Fun fact: **Over 90% of the data in the world has been created in the last two years! 💾**
 
 </div>
 
@@ -38,26 +38,23 @@
 <br/>
 <div align="center">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
     <img src="https://img.shields.io/badge/MATLAB-%23FF0000.svg?style=for-the-badge&logo=mathworks&logoColor=white" />
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/Hadoop-%23FFCA28.svg?style=for-the-badge&logo=apachehadoop&logoColor=black" />
+    <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-    <img src="https://img.shields.io/badge/Seaborn-%230E75A8.svg?style=for-the-badge&logo=Seaborn&logoColor=white" />
-    <img src="https://img.shields.io/badge/Statsmodels-%231E4E79.svg?style=for-the-badge&logo=Statsmodels&logoColor=white" />
     <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
     <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-    <img src="https://img.shields.io/badge/spaCy-%2368A4E3.svg?style=for-the-badge&logo=spacy&logoColor=white" />
     <img src="https://img.shields.io/badge/NLTK-%2315AABF.svg?style=for-the-badge&logo=nltk&logoColor=white" />
     <img src="https://img.shields.io/badge/Hugging%20Face-%23FFD700.svg?style=for-the-badge&logo=huggingface&logoColor=black" />
     <img src="https://img.shields.io/badge/Gymnasium-%23FF6F00.svg?style=for-the-badge&logo=openai&logoColor=white" />
     <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" />
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+    <img src="https://img.shields.io/badge/DevOps-%230077B5.svg?style=for-the-badge&logo=devops&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
 </div>
 <br/>
 
