@@ -10,7 +10,6 @@
 
 <div align="center">
 
-🔭 I’m currently working on **an autonomous parking vehicle for the UTAC 2024 Challenge**
 
 🌱 I’m currently learning **Deep Learning, DevOps, and Metaheuristic**
 
