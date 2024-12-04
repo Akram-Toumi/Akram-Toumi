@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=ADD8E6&lines=Hi+There!+👋;+I'm+Akram+Toumi!;" />
 </h1>
 
-<h3 align="center">A passionate AI and data enthusiast from France</h3>
+<h3 align="center">A passionate AI and data enthusiast from Tunisia</h3>
 
 <br/>
 
